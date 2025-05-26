@@ -4,7 +4,7 @@ A modern and responsive product catalog built with React and React Router. This 
 
 ## Live Demo
 
-View Live: [Product Catalog](https://19eduard99.github.io/Product-Catalog)
+View Live: [Product Catalog](https://19eduard99.github.io/product-patalog)
 
 ## 🎨 Design
 
@@ -61,7 +61,7 @@ Follow these steps to get started:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/19Eduard99/Product-Catalog.git
+git clone https://github.com/19Eduard99/product-catalog.git
 ```
 
 ### 2. Install dependencies
